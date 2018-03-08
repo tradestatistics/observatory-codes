@@ -11,6 +11,8 @@ if (!require("pacman")) install.packages("pacman")
 p_load(data.table, jsonlite, dplyr)
 ```
 
+# OEC Observatory Codes
+
 ## Description
 
 Scripts to recreate the trade data available at the [Observatory of Economic Complexity](http://atlas.media.mit.edu/en/). 
