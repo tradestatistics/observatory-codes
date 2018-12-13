@@ -1,3 +1,10 @@
+# Open ts-observatory-codes.Rproj before running this script
+
+# Copyright (c) 2018, Mauricio \"Pacha\" Vargas
+# This file is part of Open Trade Statistics project
+# The scripts within this project are released under GNU General Public License 3.0
+# See https://github.com/tradestatistics/ts-packrat-library/LICENSE for the details
+
 # download product names (SITC rev 2, HS92/96/02/07) ----------------------
 
 url <- "http://atlas.media.mit.edu/static/db/raw/products_sitc_rev2.tsv.bz2"

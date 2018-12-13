@@ -1,3 +1,10 @@
+# Open ts-observatory-codes.Rproj before running this script
+
+# Copyright (c) 2018, Mauricio \"Pacha\" Vargas
+# This file is part of Open Trade Statistics project
+# The scripts within this project are released under GNU General Public License 3.0
+# See https://github.com/tradestatistics/ts-packrat-library/LICENSE for the details
+
 # download country names --------------------------------------------------
 
 url <- "http://atlas.media.mit.edu/static/db/raw/country_names.tsv.bz2"
